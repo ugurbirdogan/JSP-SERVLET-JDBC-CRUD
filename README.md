@@ -5,7 +5,7 @@
 Basit olarak servlet ile crud işlemleri yapılmıştır.Bütün işlemler [EmployeeServlet](https://github.com/ugurbirdogan/JSP-SERVLET-JDBC-CRUD/blob/main/JSP-CRUD-PROJECT/src/com/ugur/controller/EmployeeServlet.java) içerisinde yapılmıştır.
 
 DAO katmanında veritabanı işlemleri gerçekleştirilmiş olup JDBC kullanılmıştır. Database olarak MYSQL kullanılmıştır. Ekranların kullanıcı için daha anlaşılabilir olması için
-[Botstrap](https://github.com/ugurbirdogan/JSP-SERVLET-JDBC-CRUD/blob/main/JSP-CRUD-PROJECT/WebContent/employee-form.jsp) kullanılmıştır. Projede kullanılan jarlar [WEB-INF/lib] klasörü altında bulunmaktadır.
+[Bootstrap](https://github.com/ugurbirdogan/JSP-SERVLET-JDBC-CRUD/blob/main/JSP-CRUD-PROJECT/WebContent/employee-form.jsp) kullanılmıştır. Projede kullanılan jarlar [WEB-INF/lib] klasörü altında bulunmaktadır.
 
 ![image](https://user-images.githubusercontent.com/41667882/125616038-596e62e2-591d-48ae-b64c-fe14685a2608.png)
 ![image](https://user-images.githubusercontent.com/41667882/125616690-42ce2b11-af5f-46c3-b7b5-e2389974350b.png)
